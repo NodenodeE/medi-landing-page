@@ -1,0 +1,103 @@
+
+body {
+	line-height: 1;
+    width: 1600px;
+}
+
+ol, ul {
+	list-style: none;
+}   
+
+/*--------Header starts-----*/
+
+
+.the_navbar {
+    /* the  look of the whole navbar */
+    background: #FFFFFF;
+    border-radius: 10px;
+    line-height: 24px;
+    margin-left: 272.76px;
+    margin-top: 48px;
+    padding: 10px;
+    }
+ 
+.the_navbar ul {
+    /* the look of the list in navbar */
+	margin: 0px;
+    list-style-type: none;
+    padding: 0px;
+    }
+
+.the_navbar ul li {
+    /* the text in the list-items */
+    display: inline;
+    }
+
+.the_navbar ul li a {
+    /* the link-text */
+    color: #1B0A42;
+    font-family: Roboto;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    padding: 5px 20px;
+    text-decoration: none;
+    }
+
+/*-------Header ends-----*/
+
+.medi {
+    background: #FFFFFF;
+    color: #0A1B32;
+    font-family: 'Circular Std';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 900;
+    height: 40.61px;
+    left: 80px;
+    letter-spacing: -0.02em;
+    line-height: 48px;
+    position: absolute;
+    top: 37px;
+    width: 95.25px;
+    }
+
+.yoga_woman { 
+    background: #FFFFFF;
+    height: 604px;
+    left: 853px;
+    position: absolute;
+    right: 94px;    
+    top: 186px;
+    width: 653px;
+    }
+
+h1 {
+    color: #1B0A42;
+    font-family: 'Ramaraja', serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    height: 152px;
+    left: 200px;
+    letter-spacing: 0.02em;
+    line-height: 76px;
+    position: absolute;
+    top: 280.71px;
+    width: 496px;
+}
+
+h3 {
+    /* Box of text under the big bold header on the page */
+    color: #9A9A9A;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    height: 96px;
+    left: 200px;
+    letter-spacing: 0.02em;
+    line-height: 32px;
+    position: absolute;
+    top: 442.71px;
+    width: 538.08px;
+}
